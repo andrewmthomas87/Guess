@@ -1,0 +1,85 @@
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	background-color: #eee;
+	margin: 0;
+}
+
+section {
+	width: 35em;
+	background-color: #fff;
+	padding-bottom: 2em;
+	margin: 0 auto;
+	margin-top: 5em;
+	text-align: center;
+}
+
+h1 {
+	color: #fff;
+	padding: 0.4em 0;
+	margin: 0;
+	background-color: #3498db;
+	font-size: 3.5em;
+	font-weight: 100;
+}
+
+h2 {
+	padding: 0.25em 0;
+	margin: 0;
+	font-size: 2em;
+	font-weight: 100;
+}
+
+input {
+	width: 80%;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.25em;
+	font-weight: 300;
+	padding: 0.5em 1em;
+	border: 1px solid #eee;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+input:focus {
+	border: 1px solid #3498db;
+	outline: none;
+}
+
+button {
+	display: block;
+	color: #fff;
+	background-color: #3498db;
+	width: 80%;
+	margin: 0 auto;
+	font-size: 1.25em;
+	font-weight: 300;
+	padding: 0.5em;
+	border: none;
+	outline: none;
+	box-sizing: border-box;
+	cursor: pointer;
+}
+
+div#itemsToDo div {
+	width: 75%;
+	margin: 0 auto;
+	font-size: 1.25em;
+	padding: 0.5em 0;
+	text-align: left;
+}
+
+div#itemsToDo div button {
+	display: inline;
+	width: auto;
+	font-size: 0.75em;
+	float: right;
+}
+
+div#doneItems div {
+	width: 75%;
+	margin: 0 auto;
+	font-size: 1.25em;
+	padding: 0.5em 0;
+}

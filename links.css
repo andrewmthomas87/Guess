@@ -1,0 +1,21 @@
+
+div {
+	width: 400px;
+	padding: 50px;
+	margin: 0 auto;
+	background-color: powderblue;
+}
+
+div:hover {
+	background-color: blue;
+}
+
+div:hover a {
+	color: powderblue
+}
+
+a {
+	color: #222;
+	font-size: 50px;
+	text-decoration: none;
+}

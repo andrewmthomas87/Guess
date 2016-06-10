@@ -1,0 +1,13 @@
+span {
+	display: block;
+	font-style: italic;
+	font-size: 50px;
+	text-align: center;
+}
+
+img {
+	height: 500px;
+	border: 20px solid blue;
+	border-radius: 100px;
+}
+

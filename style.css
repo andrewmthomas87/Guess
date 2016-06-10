@@ -1,0 +1,18 @@
+body {
+	background-image: url('https://images.unsplash.com/photo-1465152251391-e94453ee3f5a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2f3699fc4dbc682fbecdc4fa4d5f6cad');
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+h1 {
+	color: #222;
+	font-size: 100px;
+	padding: 50px;
+	margin: 0;
+	margin-bottom: 10px;
+	text-align: center;
+	font-family: 'Sigmar One', cursive;
+}
